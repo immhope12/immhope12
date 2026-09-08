@@ -47,11 +47,7 @@ Estudiante apasionado por la ciberseguridad y la tecnología. Me fascina entende
 
 ### 📂 Proyectos destacados / Featured Repositories:
 
-<p align="center">
-  <a href="https://github.com/immhope12/ies21">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=immhope12&repo=ies21&theme=tokyonight&hide_border=true" width="48%" />
-  </a>
-  <a href="https://github.com/immhope12/Lab1_SP2_Desafios">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=immhope12&repo=Lab1_SP2_Desafios&theme=tokyonight&hide_border=true" width="48%" />
-  </a>
-</p>
+### 📂 Proyectos destacados / Featured Repositories:
+
+- 🔗 [**ies21**](https://github.com/immhope12/ies21)
+- 🔗 [**Lab1_SP2_Desafios**](https://github.com/immhope12/Lab1_SP2_Desafios)
