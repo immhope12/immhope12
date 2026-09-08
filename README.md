@@ -31,21 +31,12 @@ Estudiante apasionado por la ciberseguridad y la tecnología. Me fascina entende
 ### 📊 GitHub Stats:
 
 <p align="center">
-  <a href="https://github.com/immhope12">
-    <img src="https://github-readme-stats.vercel.app/api?username=immhope12&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/immhope12">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=immhope12&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=immhope12&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="97%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=immhope12&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=immhope12&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
 </p>
 
 ---
 
-### 📂 Proyectos destacados / Featured Repositories:
 
 ### 📂 Proyectos destacados / Featured Repositories:
 
