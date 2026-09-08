@@ -31,8 +31,12 @@ Estudiante apasionado por la ciberseguridad y la tecnología. Me fascina entende
 ### 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=immhope12&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=immhope12&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" width="48%" />
+  <a href="https://github.com/immhope12">
+    <img src="https://github-readme-stats.vercel.app/api?username=immhope12&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/immhope12">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=immhope12&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
+  </a>
 </p>
 
 <p align="center">
@@ -43,8 +47,11 @@ Estudiante apasionado por la ciberseguridad y la tecnología. Me fascina entende
 
 ### 📂 Proyectos destacados / Featured Repositories:
 
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=immhope12&repo=ies21&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=immhope12&repo=Lab1_SP2_Desafios&theme=tokyonight&hide_border=true" width="48%" />
+  <a href="https://github.com/immhope12/ies21">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=immhope12&repo=ies21&theme=tokyonight&hide_border=true" width="48%" />
+  </a>
+  <a href="https://github.com/immhope12/Lab1_SP2_Desafios">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=immhope12&repo=Lab1_SP2_Desafios&theme=tokyonight&hide_border=true" width="48%" />
+  </a>
 </p>
