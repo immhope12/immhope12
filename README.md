@@ -31,9 +31,7 @@ Estudiante apasionado por la ciberseguridad y la tecnología. Me fascina entende
 
 ### 📊 GitHub Stats:
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=immhope12&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="GitHub Stats" />
-</p>
+<img src="https://streak-stats.demolab.com?user=immhope12&theme=default&hide_border=true" alt="immhope12's GitHub Stats" />
 
 ---
 
